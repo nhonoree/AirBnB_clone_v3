@@ -1,0 +1,1 @@
+-- SQL script to set up the MySQL test database.
